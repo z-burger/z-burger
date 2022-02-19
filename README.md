@@ -1,4 +1,3 @@
-it's ya boi @z-burger
 currently learning python, sometimes i also code lua
 
 ok bye
